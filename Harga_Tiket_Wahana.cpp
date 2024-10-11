@@ -11,7 +11,7 @@ int main() {
 		cout << "Rp 25.000";
 	}
 	else {
-		cout << "Rp 25.000";
+		cout << "Rp 35.000";
 	}
 	return 0;
 }
